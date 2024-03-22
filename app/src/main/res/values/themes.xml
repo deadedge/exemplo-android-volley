@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FichaSumativa_joaoRodrigues_n9" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.FichaSumativa_joaoRodrigues_n9" parent="Base.Theme.FichaSumativa_joaoRodrigues_n9" />
+
+    <!--  material shapes  -->
+
+    <style name="Corners">
+        <item name="cornerSize">10dp</item>
+    </style>
+
+    <style name="materialInputs">
+        <item name="boxStrokeColor">@color/chineseBlack_dark</item>
+        <item name="hintTextColor">@color/chineseBlack_dark</item>
+        <item name="android:textColorHint">@color/chineseBlack_dark</item>
+        <item name="cursorColor">@color/chineseBlack_dark</item>
+    </style>
+
+
+</resources>

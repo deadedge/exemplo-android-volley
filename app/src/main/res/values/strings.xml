@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">fichaSumativa_joaoRodrigues_n9</string>
+    <string name="produtcs">Produtcs</string>
+    <string name="price">Price: $€</string>
+    <string name="name">Name: $</string>
+    <string name="desctiption">Description: $</string>
+    <string name="search_product">Search by produtcs</string>
+
+
+</resources>
